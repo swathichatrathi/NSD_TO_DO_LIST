@@ -1,0 +1,17 @@
+#taskList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: blue;
+  }
+h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+  }
